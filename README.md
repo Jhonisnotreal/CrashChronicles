@@ -8,6 +8,6 @@ Welcome, this repository has been created to propose a solution to the crash col
 
 
 
-# KPI's
+
 
 Repository with requirements: https://github.com/soyHenry/PI_DA/tree/Full_Time
