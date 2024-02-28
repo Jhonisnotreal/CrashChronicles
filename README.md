@@ -13,12 +13,18 @@ Inside this project we could appreciate the correlation map between similar and 
 
 
 Also, in our exploratory analysis we will cover important graphs such as kills per year:
+
+
 <img src="Image/kills_per_year.png">
 
 Not forgeting the outliers analysis and constant boxplots visualizing it's distribution of our data:
+
+
 <img src="Image/outliers.png">
 
 And measuring victims per month and other important analytics.
+
+
 <img src="Image/victims_per_month.png">
 
 
