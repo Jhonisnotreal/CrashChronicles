@@ -7,6 +7,8 @@
 Welcome, this repository has been created to propose a solution to the crash collisions in Argentina, which is one of the biggest problems facing the country.
 
 Inside this project we could appreciate the correlation map between similar and numeric variables, here's an example of what I'm talking about: 
+
+
 <img src="Image/correlation_map.png">
 
 
